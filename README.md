@@ -1,3 +1,3 @@
 # informatyka_2023_Git_Github
- Projekt 
+ Projekt Pro
 Coś o projekcie
